@@ -83,4 +83,14 @@ The other biggest challenge was to write this report in git (.md) format in a wa
 
 ## Limitations
 
+- One limitaion is that a campaign is being deemed as a success/failure just on one parameter - whether or not the goal amount was met or exceeded or not. Anything that failed to meet the desired goal was deemed a failure. It did not matter if the percentage value was 90  or 0. Anything less than 100% is deemed a failure. Not every campaign should be expected to capture backers' imagination and hence their financail backing in the first couple of months or by the initial pitch. It is completely possible that ideas marked as failure may eventually be successful after enough time and exposure to justify its viability.
+Hence, there must be additional filers/factors to flag a campaign as succes.
+
+- Another limitation is no weightage to number of backers to determine a campaign's succes. An arguement can be made that more the number of backers, a campaign is more widely accepted by a bigger swath of backers/population who may be contributing smaller amounts. A project backed by 1000 backers may be marked "failed" since it did not meet its goal, while a project backed by 1 backer is success becaause it met the goal.
+
 ## Other Possible Takes
+
+-  While **US** had the biggest share of successful campaigns (76%), it also had the biggest share of failed campaigns as well (72%). This may indicate that most of the campaigns being tracked were based out of US.
+- Entertainment (**music/theater/film&video**) were top 3 successful campaign categories - with 77%, 60%, 58% respectively. 
+- While **technology** had more campaigns than film & video (700 vs 520), it was markedly less succful than film & video with a success ration of only 35%.
+- **Journalism** was the least sucessful, with none of the launched campaigns marked as successful.
